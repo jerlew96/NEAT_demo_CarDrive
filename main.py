@@ -192,4 +192,3 @@ population.run(eval_genomes, 500)
 # if __name__ == '__main__':
 #     eval_genomes()
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
